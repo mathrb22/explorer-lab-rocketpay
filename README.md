@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/rocketpay-logo.svg" height="24"/>
+  <img src=".github/rocketpay-logo.svg" height="32"/>
   <h3>Explorer lab #01</h3>
 </div>
 <br/>
